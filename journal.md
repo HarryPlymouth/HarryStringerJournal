@@ -1,4 +1,6 @@
-# Markdown
+# LAB 1:
+
+## Markdown
 
 **What is Markdown**
 
@@ -46,7 +48,7 @@
 * As mentioned above, this calls up a file, in this case "/cpuinfo", located inside the directory "/proc".
 
 ---------------------------------------------
-# Git & GitHub.
+## Git & GitHub.
 
 Created a GitHub account and committed my journal.
 
