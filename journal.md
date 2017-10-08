@@ -18,6 +18,8 @@
 * Takes us back to the home directory. 
 * The $ symbol brings you back to the start of the directory line.
 
+***NOTE: cd - takes you back to the previous directory you were in.***
+
 *mkdir [Directory Name]*
 * Creates a new directory.
 
@@ -43,8 +45,34 @@
 *cat /proc/cpuinfo*
 * As mentioned above, this calls up a file, in this case "/cpuinfo", located inside the directory "/proc".
 
-**GitHub.**
+---------------------------------------------
+# Git & GitHub.
 
 Created a GitHub account and committed my journal.
 
+**NOTE** "git log" and "gitk" are nice tools to allow you to track and display your commit history.
+
 A "commit" essentially saves a version of whatever you're committing and allows you to attach a comment describing the changes you've made to whatever document you are "saving". 
+
+**Git commands:**
+
+*git add "file name"
+* Adds the file name to git.
+
+*git commit*/*git commit -m"commit message"* 
+* Lets you commit your changes.
+
+*git status*
+* Gives details on number of commits, files associated and untracked files.
+
+**NOTE** "git log" and "gitk" are nice tools to allow you to track and display your commit history.
+
+*git push*
+* Pushes the git repository online.
+
+**NOTE** Set up online communication to GitHub using:
+
+*git remote add origin https://github.com/<account>/<repo>.git  //Adds a "remote" called origin.*
+*git push -u origin*
+
+
