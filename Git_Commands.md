@@ -22,7 +22,7 @@
 
 * Removes directory and ALL it's contents. //NOTE: *rm -r(f); f voids the delete.//
 
-*git add "file name"
+*git add "file name"*
 * Adds the file name to git.
 
 *git commit*/*git commit -m"commit message"* 
