@@ -1,6 +1,12 @@
 # LAB 1:
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+###References:
+
+* Git_int_image.png
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ## Markdown
 
@@ -58,21 +64,10 @@ Created a GitHub account and committed my journal.
 
 A "commit" essentially saves a version of whatever you're committing and allows you to attach a comment describing the changes you've made to whatever document you are "saving". 
 
-**Git commands:**
+Initialised each folder in my directory to allow git to work with them, by using the commands *"git init"*, and linked each repository to GitHub by using the following two commands:
 
-*git add "file name"
-* Adds the file name to git.
-
-*git commit*/*git commit -m"commit message"* 
-* Lets you commit your changes.
-
-*git status*
-* Gives details on number of commits, files associated and untracked files.
-
-**NOTE** "git log" and "gitk" are nice tools to allow you to track and display your commit history.
-
-*git push*
-* Pushes the git repository online.
+* git config user.name "Firstname Surname".
+* git config user.email "email address".
 
 **NOTE** Set up online communication to GitHub using:
 
