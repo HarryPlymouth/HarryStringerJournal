@@ -1,5 +1,7 @@
 # Command List:
 
+##Cmd line commands:
+
 *ls*
 * Looks into the directory.
 
@@ -21,6 +23,8 @@
 *rm -r*
 
 * Removes directory and ALL it's contents. //NOTE: *rm -r(f); f voids the delete.//
+
+##Git commit and pull commands:
 
 *git add "file name"*
 * Adds the file name to git.
