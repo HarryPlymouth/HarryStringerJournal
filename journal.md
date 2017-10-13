@@ -82,7 +82,7 @@ A "commit" essentially saves a version of whatever you're committing and allows 
 ---------------------------------------------
 # LAB 2:
 
-*Motor Design: Initial Version.*
+***Motor Design: Initial Version.***
 
 Created an initial commutator from a cork as a base, and two pieces of copper tape for the brushes to press against.
 
