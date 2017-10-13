@@ -64,12 +64,16 @@ Created a GitHub account and committed my journal.
 
 A "commit" essentially saves a version of whatever you're committing and allows you to attach a comment describing the changes you've made to whatever document you are "saving". 
 
-Initialised each folder in my directory to allow git to work with them, by using the commands *"git init"*, and linked each repository to GitHub by using the following two commands:
+Initialised each folder in my directory to allow git to work with them, by using the commands *"git init."* 
+
+*See Git_init_image.png.*
+
+Linked each repository to GitHub by using the following two commands:
 
 * git config user.name "Firstname Surname".
 * git config user.email "email address".
 
-**NOTE** Set up online communication to GitHub using:
+Set up online communication to GitHub using:
 
 *git remote add origin https://github.com/(account)/(repo).git* 
 * Adds a "remote" called origin.
