@@ -1,5 +1,7 @@
 # LAB 1:
 
+
+
 ## Markdown
 
 **What is Markdown**
@@ -82,6 +84,15 @@ A "commit" essentially saves a version of whatever you're committing and allows 
 ---------------------------------------------
 # LAB 2:
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+###References:
+
+* motor_one.jpg.
+* motor_one_working.mp4
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ***Motor Design: Initial Version.***
 
 Created an initial commutator from a cork as a base, and two pieces of copper tape for the brushes to press against.
@@ -96,6 +107,8 @@ Created supports to hold both the motor and magnets using paper clips, and align
 
 *The image of the first draft of the motor is provided in "motor_one.png".*
 
+Managed to get motor to run, albeit with limited success; mostly due to the issue stated above, as well as the inefficiency of the single coil motor design.
 
+*See motor_one_working.mp4 for the video of the motor working correctly.*
 
 
