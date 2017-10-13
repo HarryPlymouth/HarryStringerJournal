@@ -82,4 +82,20 @@ A "commit" essentially saves a version of whatever you're committing and allows 
 ---------------------------------------------
 # LAB 2:
 
+*Motor Design: Initial Version.*
+
+Created an initial commutator from a cork as a base, and two pieces of copper tape for the brushes to press against.
+
+Supported the armature with two metal pins to act as a shaft to allow the motor to spin.
+
+Note: *Had issues with the shaft falling off the supports, and this was something we had to consider for improvement.*
+
+We then wound 120 turns of copper wire around the armature.
+
+Created supports to hold both the motor and magnets using paper clips, and aligned everything using the provided board.
+
+*The image of the first draft of the motor is provided in "motor_one.png".*
+
+
+
 
