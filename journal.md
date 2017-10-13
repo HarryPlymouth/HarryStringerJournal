@@ -74,8 +74,12 @@ A "commit" essentially saves a version of whatever you're committing and allows 
 
 **NOTE** Set up online communication to GitHub using:
 
-*git remote add origin https://github.com/(account)/(repo).git  //Adds a "remote" called origin.*
+*git remote add origin https://github.com/(account)/(repo).git* 
+* Adds a "remote" called origin.
 
 *git push -u origin*
+
+---------------------------------------------
+# LAB 2:
 
 
